@@ -23,7 +23,7 @@ header {
 .logo {
     font-size: 26px;
     font-weight: bold;
-    color: #f59e0b;
+    color: #b91c1c;
 }
 
 nav a {
@@ -38,7 +38,7 @@ nav a::after {
     position: absolute;
     width: 0;
     height: 2px;
-    background: #f59e0b;
+    background: #b91c1c;
     left: 0;
     bottom: -6px;
     transition: 0.3s;
@@ -62,7 +62,7 @@ nav a:hover::after {
 }
 
 .hero span {
-    color: #f59e0b;
+    color: #b91c1c;
 }
 
 .hero p {
@@ -74,7 +74,7 @@ nav a:hover::after {
     display: inline-block;
     margin-top: 30px;
     padding: 14px 35px;
-    background: #f59e0b;
+    background: #b91c1c;
     color: #111;
     text-decoration: none;
     border-radius: 30px;
@@ -83,7 +83,7 @@ nav a:hover::after {
 
 .btn:hover {
     transform: scale(1.1);
-    box-shadow: 0 0 20px #f59e0b;
+    box-shadow: 0 0 20px #b91c1c;
 }
 
 .section {
@@ -93,7 +93,7 @@ nav a:hover::after {
 
 .section h1 {
     margin-bottom: 40px;
-    color: #f59e0b;
+    color: #b91c1c;
 }
 
 .cards {
@@ -116,7 +116,7 @@ nav a:hover::after {
 
 .card h3 {
     margin-bottom: 10px;
-    color: #f59e0b;
+    color: #b91c1c;
 }
 
 .menu-grid {
@@ -154,13 +154,13 @@ nav a:hover::after {
 }
 
 .menu-info h3 {
-    color: #f59e0b;
+    color: #b91c1c;
     margin-bottom: 10px;
 }
 
 .price {
     font-weight: bold;
-    color: #f59e0b;
+    color: #b91c1c;
     margin-top: 10px;
 }
 
@@ -181,7 +181,7 @@ input, textarea {
 button {
     width: 100%;
     padding: 12px;
-    background: #f59e0b;
+    background: #b91c1c;
     border: none;
     border-radius: 25px;
     cursor: pointer;
@@ -209,3 +209,4 @@ footer {
         opacity: 1;
     }
 }
+
